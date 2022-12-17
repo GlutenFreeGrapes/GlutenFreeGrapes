@@ -1,9 +1,9 @@
 ### 👋 Hi, I am @GlutenFreeGrapes. 
 ### 🌱 I’m currently learning Python, and that is because I made the involuntary choice to learn Java first. 
-### 🔭 I’m currently working on work. 
-### 💬 Ask me about former US Senator from Wisconsin Robert Marion La Follette Sr. 
+### 🔭 I’m currently working on homework and personal projects. 
+### 💬 Ask me about the New York City subway system. 
 ### 😄 Pronouns: he/him/his
-### 📫 How to reach me: don't. 
+### 📫 How to reach me: idk. 
 
 
 <!--
