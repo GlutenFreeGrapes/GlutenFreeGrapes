@@ -1,9 +1,9 @@
-### 👋 Hi, I am @GlutenFreeGrapes. 
-### 🌱 I’m currently learning Python, and that is because I made the involuntary choice to learn Java first. 
-### 🔭 I’m currently working on homework and personal projects. 
+### 👋 Hi, I am @GlutenFreeGrapes
+### 🌱 I’m currently learning nothing rn
+### 🔭 I’m currently working on some personal projects ig
 ### 💬 Ask me about uhh um uh 
 ### 😄 Pronouns: he/him/his
-### 📫 How to reach me: idk. 
+### 📫 How to reach me: idk
 
 
 <!--
