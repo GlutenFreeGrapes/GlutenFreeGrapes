@@ -1,9 +1,8 @@
 ### 👋 Hi, I am @GlutenFreeGrapes
-### 🌱 I’m currently learning nothing rn
-### 🔭 I’m currently working on some personal projects ig
-### 💬 Ask me about uhh um uh 
+### 🌱 I’m currently learning a bit of HTML and CSS. 
+### 🔭 I’m currently working on some personal projects, usually small programs to automate certain things. 
+### 💬 Ask me about some 3D printing things, Latin, history
 ### 😄 Pronouns: he/him/his
-### 📫 How to reach me: idk
 
 
 <!--
