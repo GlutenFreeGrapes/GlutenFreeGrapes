@@ -1,9 +1,6 @@
-### 👋 Hi, I am @GlutenFreeGrapes
-### 🌱 I’m currently learning a bit of HTML and CSS. 
-### 🔭 I’m currently working on some personal projects, usually small programs to automate certain things. 
-### 💬 Ask me about some 3D printing things, Latin, history
-### 😄 Pronouns: he/him/his
-
+### @GlutenFreeGrapes
+### I’m currently learning a bit of HTML and CSS + C++. 
+### I’m currently working on some personal projects, usually small programs to automate certain things but also some others involving building things. 
 
 <!--
 **GlutenFreeGrapes/GlutenFreeGrapes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
