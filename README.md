@@ -1,6 +1,8 @@
-### @GlutenFreeGrapes
-### I’m currently learning a bit of HTML and CSS + C++. 
-### I’m currently working on some personal projects, usually small programs to automate certain things but also some others involving building things. 
+### @GlutenFreeGrapes, currently learning a bit of HTML and CSS as well as C++. I’m currently working on some personal projects, usually small programs to automate certain things but also some others involving building things. 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glutenfreegrapes&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glutenfreegrapes&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glutenfreegrapes&theme=default)
+
 
 <!--
 **GlutenFreeGrapes/GlutenFreeGrapes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
