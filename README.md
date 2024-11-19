@@ -28,6 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SCIPY-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ## Programs
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
